@@ -45,7 +45,7 @@
   width: calc( (100% / 12) * 12);
 }
 
-[class*="col-1"]{
+[class*="col-"]{
   float: left;
 }
 /*offset*/
